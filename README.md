@@ -18,6 +18,6 @@
 
 사용법:
 명령 프롬프트에서 'app_new.py' 파일을 streamlit 으로 실행하면 됩니다.
-<streamlit run app_new.py>
+```streamlit run app_new.py```
 
 음식 정보 출처: https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=74
