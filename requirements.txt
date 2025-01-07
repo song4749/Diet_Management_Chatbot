@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-community
+chromadb == 0.5.3
+pandas
+openai
+deep_translator
+openpyxl
+tiktoken
+python-dotenv
